@@ -9,8 +9,6 @@ Welcome to the official GitHub Organization for **Notello** – a complete note-
 - **Personalized Study Tools**: Leverage highly personalized study tools crafted from your notes. Our system tailors study aids to fit your learning style and needs.
   
 - **Homework Helpers**: Struggle less with homework. Notello offers homework assistance by utilizing the information from your notes.
-  
-- **Open Source**: We believe in the power of community. Notello is proud to be an open-source project, welcoming contributions from everyone. Check out our code, and if you see something that could be improved, we'd love to see your contributions.
 
 ## Contact Us
 
